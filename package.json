@@ -4,7 +4,7 @@
   "description": "AI assistant backend: answers only from your own facts, model fallback, safe JSON parsing.",
   "type": "module",
   "license": "MIT",
-  "author": "Vertex Code by Ȥrk Team",
+  "author": "Varhex by Ȥrk Team",
   "engines": {
     "node": ">=20.6"
   },

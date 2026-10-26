@@ -1,6 +1,6 @@
 # AI assistant template
 
-The back end of a website assistant, by **Vertex Code by Ȥrk Team**. It answers visitors **only from the facts you write**, never invents prices or deadlines, and keeps your API key on the server.
+The back end of a website assistant, by **Varhex by Ȥrk Team**. It answers visitors **only from the facts you write**, never invents prices or deadlines, and keeps your API key on the server.
 
 - Works with any OpenAI-compatible API (Groq has a free tier)
 - Tries several models in order, retries without JSON mode when a model refuses it
@@ -25,4 +25,4 @@ curl -X POST http://localhost:3001/chat -H 'content-type: application/json' -d '
 Back-end d’assistant IA pour site web : il ne répond qu’à partir des faits écrits dans `src/facts.ts`, n’invente jamais de prix ni de délai, garde la clé côté serveur et bascule sur un autre modèle en cas de panne.
 
 ---
-Made by [Vertex Code by Ȥrk Team](https://www.zrk.lol) · MIT licence
+Made by [Varhex by Ȥrk Team](https://www.zrk.lol) · MIT licence
