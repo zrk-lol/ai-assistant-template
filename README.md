@@ -25,4 +25,4 @@ curl -X POST http://localhost:3001/chat -H 'content-type: application/json' -d '
 Back-end d’assistant IA pour site web : il ne répond qu’à partir des faits écrits dans `src/facts.ts`, n’invente jamais de prix ni de délai, garde la clé côté serveur et bascule sur un autre modèle en cas de panne.
 
 ---
-Made by [Varhex by Ȥrk Team](https://www.zrk.lol) · MIT licence
+Made by [Varhex by Ȥrk Team](https://varhex.com) · MIT licence
